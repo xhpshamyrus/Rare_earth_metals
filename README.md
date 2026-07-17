@@ -1,4 +1,5 @@
-<p style="font-size: 18px;">Rare earth metals are a group of 17 chemical elements, including the lanthanides, as well as scandium and yttrium. They possess unique physical and chemical properties that make them indispensable in modern technologies and industry.
+<p style="font-size: 18px;">
+  <head>Rare earth metals are a group of 17 chemical elements, including the lanthanides, as well as scandium and yttrium. They possess unique physical and chemical properties that make them indispensable in modern technologies and industry.</head>
 
 Rare earth metals are used:
 
